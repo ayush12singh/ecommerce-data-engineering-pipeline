@@ -1,0 +1,7 @@
+pyarrow
+s3fs
+python-dotenv
+kaggle
+requests
+configparser
+faker
